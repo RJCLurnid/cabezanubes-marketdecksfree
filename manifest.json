@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "decks": [
+    {
+      "id": "mktplace-test-001",
+      "title": "Marketplace Test Deck",
+      "version": 1,
+      "category": "other",
+      "cdnUrl": ""
+    },
+    {
+      "id": "movies-101",
+      "title": "Blockbuster Movies",
+      "version": 2,
+      "category": "movies",
+      "cdnUrl": ""
+    }
+  ]
+}

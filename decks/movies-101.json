@@ -1,0 +1,17 @@
+{
+  "id": "movies-101",
+  "title": "Blockbuster Movies",
+  "description": "Guess the biggest hit movies of all time. (v2 — now with more films!)",
+  "category": "movies",
+  "version": 2,
+  "author": "developer",
+  "accentColor": "#E50914",
+  "cards": [
+    { "id": "m1", "word": "The Godfather", "hint": "I'm gonna make him an offer he can't refuse." },
+    { "id": "m2", "word": "Titanic", "hint": "I'm the king of the world!" },
+    { "id": "m3", "word": "Jurassic Park", "hint": "Dinosaurs brought back to life on an island." },
+    { "id": "m4", "word": "The Lion King", "hint": "Hakuna Matata." },
+    { "id": "m5", "word": "Avatar", "hint": "Blue aliens on the moon Pandora." },
+    { "id": "m6", "word": "Star Wars", "hint": "May the Force be with you." }
+  ]
+}

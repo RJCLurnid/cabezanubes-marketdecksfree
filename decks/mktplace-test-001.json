@@ -1,0 +1,16 @@
+{
+  "id": "mktplace-test-001",
+  "title": "Marketplace Test Deck",
+  "description": "A brand-new deck downloaded straight from the marketplace.",
+  "category": "other",
+  "version": 1,
+  "author": "developer",
+  "accentColor": "#9C27B0",
+  "cards": [
+    { "id": "t1", "word": "Telescope", "hint": "You look through it at the stars." },
+    { "id": "t2", "word": "Volcano", "hint": "Erupts with lava." },
+    { "id": "t3", "word": "Penguin", "hint": "A bird that swims but can't fly." },
+    { "id": "t4", "word": "Lighthouse", "hint": "Warns ships away from the coast." },
+    { "id": "t5", "word": "Cactus", "hint": "Desert plant covered in spines." }
+  ]
+}
