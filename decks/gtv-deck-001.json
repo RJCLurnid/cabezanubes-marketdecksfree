@@ -1,0 +1,647 @@
+{
+  "cabezaNubesExport": true,
+  "version": 1,
+  "exportedAt": "2026-06-08T03:16:11.025Z",
+  "exportType": "deck",
+  "decks": [
+    {
+      "id": "diaffbfhu",
+      "title": "Got That Vocab",
+      "description": "Titillating and tantalizing vocabulary tickles the temporal lobe in some. Bust that mental or physical thesaurus open, cuz these gots some stank on em",
+      "category": "other",
+      "accentColor": "#1abc9c",
+      "icon": "lib:books",
+      "version": 1,
+      "author": "user",
+      "authorName": "Bobo#9lbi",
+      "cards": [
+        {
+          "id": "4e5swvy8d",
+          "word": "Soluble"
+        },
+        {
+          "id": "6ma7clgc4",
+          "word": "Entice"
+        },
+        {
+          "id": "2wcc1gwao",
+          "word": "Begrudging"
+        },
+        {
+          "id": "aiz5a3j9y",
+          "word": "Fortify"
+        },
+        {
+          "id": "a0zwxzn5i",
+          "word": "Pertinent"
+        },
+        {
+          "id": "2bgp8abln",
+          "word": "Feasible"
+        },
+        {
+          "id": "cnx62eiph",
+          "word": "Travesty"
+        },
+        {
+          "id": "t18ws3t14",
+          "word": "Clasp"
+        },
+        {
+          "id": "bgdyjegax",
+          "word": "Inkling"
+        },
+        {
+          "id": "l6legxtr8",
+          "word": "Rebuff"
+        },
+        {
+          "id": "5mwkl0uuv",
+          "word": "Wrought"
+        },
+        {
+          "id": "k9fnw5wkg",
+          "word": "Illuminate"
+        },
+        {
+          "id": "pdpszvg82",
+          "word": "Fester"
+        },
+        {
+          "id": "zwneup3x5",
+          "word": "Globular"
+        },
+        {
+          "id": "qt6kwobmq",
+          "word": "Pragmatic"
+        },
+        {
+          "id": "2jxa1n7m5",
+          "word": "Underneath"
+        },
+        {
+          "id": "al7hmf7a0",
+          "word": "Onerous"
+        },
+        {
+          "id": "v7m8wl98s",
+          "word": "Partial"
+        },
+        {
+          "id": "3bjyst5xk",
+          "word": "Swift"
+        },
+        {
+          "id": "hmztgsh7a",
+          "word": "Deleterious"
+        },
+        {
+          "id": "wdtlgiv5h",
+          "word": "Facade"
+        },
+        {
+          "id": "vxdhcw59s",
+          "word": "Untenable"
+        },
+        {
+          "id": "p514le3mu",
+          "word": "Flit"
+        },
+        {
+          "id": "u89htl4t7",
+          "word": "Crisp"
+        },
+        {
+          "id": "1yktt076p",
+          "word": "Fictitious"
+        },
+        {
+          "id": "62af5lemk",
+          "word": "Grotesque"
+        },
+        {
+          "id": "w8o3rb6d4",
+          "word": "Indelible"
+        },
+        {
+          "id": "tfhtyq0iy",
+          "word": "Fatigue",
+          "oopTag": "oop",
+          "oopNextId": "20clhfe4g",
+          "oopReciprocal": true
+        },
+        {
+          "id": "20clhfe4g",
+          "word": "Indefatigable",
+          "oopTag": "slam",
+          "oopNextId": "tfhtyq0iy",
+          "oopReciprocal": true
+        },
+        {
+          "id": "81snya973",
+          "word": "Inscrutable"
+        },
+        {
+          "id": "2m72a93sq",
+          "word": "Gallant"
+        },
+        {
+          "id": "8kqzcrfzt",
+          "word": "Wisp"
+        },
+        {
+          "id": "vttl3ned5",
+          "word": "Frail",
+          "oopTag": "oop",
+          "oopNextId": "7pk0qfow1",
+          "oopReciprocal": true
+        },
+        {
+          "id": "7pk0qfow1",
+          "word": "Brittle",
+          "oopTag": "slam",
+          "oopNextId": "vttl3ned5",
+          "oopReciprocal": true
+        },
+        {
+          "id": "hutrdzxq9",
+          "word": "Scant"
+        },
+        {
+          "id": "jlkeoibj8",
+          "word": "Unfurl"
+        },
+        {
+          "id": "ftnbkore3",
+          "word": "Brisk"
+        },
+        {
+          "id": "mq40oy6eb",
+          "word": "Billow"
+        },
+        {
+          "id": "f7n4b6qc9",
+          "word": "Covert"
+        },
+        {
+          "id": "91okc1141",
+          "word": "Slink"
+        },
+        {
+          "id": "xc5saekp1",
+          "word": "Critter"
+        },
+        {
+          "id": "nnnag45v6",
+          "word": "Brink"
+        },
+        {
+          "id": "r9rdho30w",
+          "word": "Steadfast"
+        },
+        {
+          "id": "k52s55hcq",
+          "word": "Staunch"
+        },
+        {
+          "id": "xujofujtp",
+          "word": "Muster"
+        },
+        {
+          "id": "6vupcx6b5",
+          "word": "Voracious"
+        },
+        {
+          "id": "wltefm85x",
+          "word": "Spindle"
+        },
+        {
+          "id": "6uprjv5a9",
+          "word": "Hankering"
+        },
+        {
+          "id": "f8a4dj1mw",
+          "word": "Nebulous",
+          "oopTag": "oop",
+          "oopNextId": "pscxyd1f1",
+          "oopReciprocal": true
+        },
+        {
+          "id": "zvn7s31oj",
+          "word": "Stellar"
+        },
+        {
+          "id": "mtidj9ykq",
+          "word": "Obfuscated"
+        },
+        {
+          "id": "srzdj28qa",
+          "word": "Masticate"
+        },
+        {
+          "id": "d1qur2o1k",
+          "word": "Risqué"
+        },
+        {
+          "id": "gvdif17qo",
+          "word": "Scuttle"
+        },
+        {
+          "id": "zk7x30ej5",
+          "word": "Overzealous"
+        },
+        {
+          "id": "m4oec3jib",
+          "word": "Ineligible"
+        },
+        {
+          "id": "jx0bnay4c",
+          "word": "Egregious"
+        },
+        {
+          "id": "yej8uinkg",
+          "word": "Ergonomic"
+        },
+        {
+          "id": "tdu2e8yc5",
+          "word": "Wistful"
+        },
+        {
+          "id": "5zicq6bga",
+          "word": "Intrepid"
+        },
+        {
+          "id": "yqgbh00hh",
+          "word": "Tertiary"
+        },
+        {
+          "id": "787t97ryv",
+          "word": "Penultimate"
+        },
+        {
+          "id": "idxsewedd",
+          "word": "Aggregate"
+        },
+        {
+          "id": "ok9ahizku",
+          "word": "Intrinsic"
+        },
+        {
+          "id": "q73z54kop",
+          "word": "Instantaneous"
+        },
+        {
+          "id": "vp4uuwszx",
+          "word": "Erroneous"
+        },
+        {
+          "id": "pyggo9efl",
+          "word": "Prolific"
+        },
+        {
+          "id": "2rk73j7bo",
+          "word": "Limber"
+        },
+        {
+          "id": "es8kfd8bc",
+          "word": "Lithe"
+        },
+        {
+          "id": "kbdhfclxp",
+          "word": "Precipice"
+        },
+        {
+          "id": "o44w8t6r3",
+          "word": "Zeitgeist"
+        },
+        {
+          "id": "r5ikpqzij",
+          "word": "Schism"
+        },
+        {
+          "id": "3a9aodyqo",
+          "word": "Surreptitious"
+        },
+        {
+          "id": "1d9rwi10v",
+          "word": "Bereft"
+        },
+        {
+          "id": "svg631hm4",
+          "word": "Crumple"
+        },
+        {
+          "id": "peco7ygds",
+          "word": "Deride"
+        },
+        {
+          "id": "5x3dbvi5q",
+          "word": "Allocate"
+        },
+        {
+          "id": "vhpxwxc6e",
+          "word": "Wrest"
+        },
+        {
+          "id": "3b3quambs",
+          "word": "Reticent"
+        },
+        {
+          "id": "183ieldhv",
+          "word": "Prehensile"
+        },
+        {
+          "id": "pcqduheee",
+          "word": "Ornamental"
+        },
+        {
+          "id": "d6zaxb7lc",
+          "word": "Minute",
+          "context": "small"
+        },
+        {
+          "id": "715f47cs0",
+          "word": "Stringent"
+        },
+        {
+          "id": "8meri2e9z",
+          "word": "Bristle"
+        },
+        {
+          "id": "wffjwtkg7",
+          "word": "Incessant"
+        },
+        {
+          "id": "t1eaxnjei",
+          "word": "Supersede"
+        },
+        {
+          "id": "5sgqmt2ch",
+          "word": "Eviscerate"
+        },
+        {
+          "id": "ee8fvgvrv",
+          "word": "Impetus"
+        },
+        {
+          "id": "kw7ster3k",
+          "word": "Onus"
+        },
+        {
+          "id": "67796843n",
+          "word": "Uncouth"
+        },
+        {
+          "id": "a3udbdeqi",
+          "word": "Vacillating"
+        },
+        {
+          "id": "t0ar3oovw",
+          "word": "Aforementioned"
+        },
+        {
+          "id": "31mhv0dm3",
+          "word": "Demarcate"
+        },
+        {
+          "id": "00ghrbdr2",
+          "word": "Bungled"
+        },
+        {
+          "id": "om3t08141",
+          "word": "Frenetic"
+        },
+        {
+          "id": "wsdqqnl09",
+          "word": "Apoplectic"
+        },
+        {
+          "id": "pq64v0j50",
+          "word": "Ostentatious"
+        },
+        {
+          "id": "m7qrmlyqb",
+          "word": "Voluminous"
+        },
+        {
+          "id": "dac2i2mkl",
+          "word": "Languid"
+        },
+        {
+          "id": "hlny2ohzg",
+          "word": "Drab"
+        },
+        {
+          "id": "zyxg9c2kl",
+          "word": "Harken"
+        },
+        {
+          "id": "nw1kpe807",
+          "word": "Poise"
+        },
+        {
+          "id": "b7mkt1nz1",
+          "word": "Girdle"
+        },
+        {
+          "id": "qfo26pq7b",
+          "word": "Quip"
+        },
+        {
+          "id": "96r8gklv9",
+          "word": "Serendipity"
+        },
+        {
+          "id": "shckgm9oe",
+          "word": "Stipulation"
+        },
+        {
+          "id": "oi36x3zhh",
+          "word": "Ornery"
+        },
+        {
+          "id": "g5w3juy6h",
+          "word": "Reciprocal"
+        },
+        {
+          "id": "8ve3rjsav",
+          "word": "Olfactory"
+        },
+        {
+          "id": "qrpclw90m",
+          "word": "Illustrious"
+        },
+        {
+          "id": "zms4l1gk9",
+          "word": "Ameliorate"
+        },
+        {
+          "id": "781m8arrv",
+          "word": "Facetious"
+        },
+        {
+          "id": "0pq4ei3yi",
+          "word": "Whim"
+        },
+        {
+          "id": "bdhuu26ds",
+          "word": "Verbiage"
+        },
+        {
+          "id": "xq4oq7b4f",
+          "word": "Entrenched",
+          "oopTag": "oop",
+          "oopNextId": "ug8hnqge9",
+          "oopReciprocal": true
+        },
+        {
+          "id": "ug8hnqge9",
+          "word": "Trenchant",
+          "oopTag": "slam",
+          "oopNextId": "xq4oq7b4f",
+          "oopReciprocal": true
+        },
+        {
+          "id": "lysx7bies",
+          "word": "Craven"
+        },
+        {
+          "id": "4axgxpbai",
+          "word": "Conceivable",
+          "oopTag": "oop",
+          "oopNextId": "x3gmtcwwr",
+          "oopReciprocal": true
+        },
+        {
+          "id": "x3gmtcwwr",
+          "word": "Inconceivable",
+          "oopTag": "slam",
+          "oopNextId": "4axgxpbai",
+          "oopReciprocal": true
+        },
+        {
+          "id": "xihvg04cp",
+          "word": "Hierarchy"
+        },
+        {
+          "id": "w1saskzjm",
+          "word": "Hegemony"
+        },
+        {
+          "id": "tfc9lb5p9",
+          "word": "Flummoxed"
+        },
+        {
+          "id": "jb2x2biyb",
+          "word": "Incapacitated"
+        },
+        {
+          "id": "n7bafq5rp",
+          "word": "Piecemeal"
+        },
+        {
+          "id": "db0ipq02c",
+          "word": "Arbitrary"
+        },
+        {
+          "id": "5o0k6o7en",
+          "word": "Ancillary"
+        },
+        {
+          "id": "g1k5afin5",
+          "word": "Unanimous"
+        },
+        {
+          "id": "s3e37bf8a",
+          "word": "Fulcrum"
+        },
+        {
+          "id": "wjbhq2u96",
+          "word": "Salient"
+        },
+        {
+          "id": "q4calz9he",
+          "word": "Cogent"
+        },
+        {
+          "id": "brrnatdq2",
+          "word": "Glom"
+        },
+        {
+          "id": "so6tmw1pc",
+          "word": "Incorrigible"
+        },
+        {
+          "id": "3k1lcigvy",
+          "word": "Chagrin"
+        },
+        {
+          "id": "8q798lsgp",
+          "word": "Askew"
+        },
+        {
+          "id": "03aicpf83",
+          "word": "Innate"
+        },
+        {
+          "id": "gipc4yqxd",
+          "word": "Latent"
+        },
+        {
+          "id": "n5dja3icr",
+          "word": "Inane"
+        },
+        {
+          "id": "at60thxu8",
+          "word": "Decrepit"
+        },
+        {
+          "id": "gtl9hmaz9",
+          "word": "Rigid"
+        },
+        {
+          "id": "8293gjyi7",
+          "word": "Precarious"
+        },
+        {
+          "id": "9nryd81oc",
+          "word": "Scrimp"
+        },
+        {
+          "id": "fqz5r1qm1",
+          "word": "Inept"
+        },
+        {
+          "id": "s1zoa7thu",
+          "word": "Copious"
+        },
+        {
+          "id": "lfpz6evgs",
+          "word": "Inimitable"
+        },
+        {
+          "id": "txkmo5k38",
+          "word": "Intricate"
+        },
+        {
+          "id": "pscxyd1f1",
+          "word": "Amorphous",
+          "oopTag": "slam",
+          "oopNextId": "f8a4dj1mw",
+          "oopReciprocal": true
+        },
+        {
+          "id": "g9wtvgtli",
+          "word": "Intermittent"
+        },
+        {
+          "id": "j3obfzimu",
+          "word": "Mitigate"
+        }
+      ]
+    }
+  ],
+  "players": [],
+  "deviceStats": null,
+  "deviceGiverStats": null
+}
