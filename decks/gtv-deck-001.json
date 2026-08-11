@@ -5,7 +5,7 @@
       "category": "other",
       "accentColor": "#1abc9c",
       "icon": "lib:books",
-      "version": 1,
+      "version": 1.1,
       "author": "developer",
       "cards": [
         {
@@ -634,6 +634,158 @@
         {
           "id": "l8h7n9y2a",
           "word": "Ascertain"
-        }
+        },
+        {
+      "id": "a1",
+      "word": "Recumbent"
+    },
+    {
+      "id": "a2",
+      "word": "Inexhaustive"
+    },
+    {
+      "id": "a3",
+      "word": "Contingency"
+    },
+    {
+      "id": "a4",
+      "word": "Colloquial"
+    },
+    {
+      "id": "a5",
+      "word": "Susceptible"
+    },
+    {
+      "id": "a6",
+      "word": "Nomenclature"
+    },
+    {
+      "id": "a7",
+      "word": "Assuage"
+    },
+    {
+      "id": "a8",
+      "word": "Sustenance"
+    },
+    {
+      "id": "a9",
+      "word": "Subside"
+    },
+    {
+      "id": "a10",
+      "word": "Subsist"
+    },
+    {
+      "id": "a11",
+      "word": "Interfere"
+    },
+    {
+      "id": "a12",
+      "word": "Contraption"
+    },
+    {
+      "id": "a13",
+      "word": "Breadth"
+    },
+    {
+      "id": "a14",
+      "word": "Nefarious"
+    },
+    {
+      "id": "a15",
+      "word": "Circumspect"
+    },
+    {
+      "id": "a16",
+      "word": "Harangue"
+    },
+    {
+      "id": "a17",
+      "word": "Loquacious"
+    },
+    {
+      "id": "a18",
+      "word": "Foment"
+    },
+    {
+      "id": "a19",
+      "word": "Disparage"
+    },
+    {
+      "id": "a20",
+      "word": "Flaunt"
+    },
+    {
+      "id": "a21",
+      "word": "Wither"
+    },
+    {
+      "id": "a22",
+      "word": "Ostracize"
+    },
+    {
+      "id": "a23",
+      "word": "Trite"
+    },
+    {
+      "id": "a24",
+      "word": "Gregarious"
+    },
+    {
+      "id": "a25",
+      "word": "Glib"
+    },
+    {
+      "id": "a26",
+      "word": "Vehemently"
+    },
+    {
+      "id": "a27",
+      "word": "Tryst"
+    },
+    {
+      "id": "a28",
+      "word": "Grovel"
+    },
+    {
+      "id": "a29",
+      "word": "Feign"
+    },
+    {
+      "id": "a30",
+      "word": "Restitution"
+    },
+    {
+      "id": "a31",
+      "word": "Wield"
+    },
+    {
+      "id": "a32",
+      "word": "Concoct"
+    },
+    {
+      "id": "a33",
+      "word": "Insurmountable"
+    },
+    {
+      "id": "a34",
+      "word": "Pent"
+    },
+    {
+      "id": "a35",
+      "word": "Burgeoning"
+    },
+    {
+      "id": "a36",
+      "word": "Ruinous"
+    },
+    {
+      "id": "a37",
+      "word": "Scapegoat"
+    },
+    {
+      "id": "a38",
+      "word": "Grimace"
+    }
       ]
     }
