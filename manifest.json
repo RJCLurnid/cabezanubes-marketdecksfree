@@ -21,6 +21,13 @@
        "version": 1.2,
        "category": "other",
        "cdnUrl": ""
+    },
+    {
+      "id": "prg-deck-001",
+      "title": "Pregnancy",
+      "version": 1,
+      "category": "health",
+      "cdnUrl": ""
     }
   ]
 }
